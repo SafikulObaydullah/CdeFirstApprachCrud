@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7fb23aba-13cc-49fd-8cd4-f9416d03bdaf": {
+      "ProjectGuid": "7fb23aba-13cc-49fd-8cd4-f9416d03bdaf",
+      "DisplayName": "CrudDotNetCore",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
